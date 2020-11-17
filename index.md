@@ -11,4 +11,5 @@ Utilizing knowledge from programming is fun this game demonstrates the object-or
 A [Study Application](https://github.com/TheKnechtion/StudyApp3.0) that reads in terms and definitions from an external file (or files).
 
 ## Trivia Game
-![Trivia Game](./Trivia.jpg) a trivia application that allows a player to guess a correct answer from several possible options. 
+![Trivia Game](./Trivia.jpg) 
+A [Trivia Game](https://github.com/TheKnechtion/TriviaGame) that allows a player to guess a correct answer from several possible options. 
