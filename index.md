@@ -15,7 +15,7 @@ A [Study Application](https://github.com/TheKnechtion/StudyApp3.0) that reads in
 A [Trivia Game](https://github.com/TheKnechtion/TriviaGame) that allows a player to guess a correct answer from several possible options. 
 
 ## Trivia Game WPF
-![Trivia Game](./Trivia Night 2.jpg) 
+![Trivia Game 2](./SUNDER.jpg) 
 A [Trivia Game](https://github.com/TheKnechtion/TriviaGameWPF) using WPF GUI that allows a player to guess a correct answer from several possible options. 
 
 ## Madlib WPF
